@@ -1,0 +1,2 @@
+C:\Users\piyus\source\repos\ImageRotate\x64\Debug\ImageRotate.exe
+C:\Users\piyus\source\repos\ImageRotate\x64\Debug\ImageRotate.pdb
